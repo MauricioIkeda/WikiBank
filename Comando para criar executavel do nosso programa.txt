@@ -1,0 +1,7 @@
+Comando para instalar todas as bibliotecas:
+pip install -r requirements.txt
+
+Comando para criar um executavel do programa:
+pyinstaller --hidden-import babel.numbers --onefile --noconsole Teste.py
+
+

@@ -1,0 +1,8 @@
+tk
+tkcalendar
+matplotlib
+selenium
+webdriver-manager
+yfinance
+pandas
+numpy
